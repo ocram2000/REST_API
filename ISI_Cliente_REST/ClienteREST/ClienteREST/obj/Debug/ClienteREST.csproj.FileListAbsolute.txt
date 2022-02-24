@@ -1,0 +1,283 @@
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe.config
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.pdb
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Properties.Resources.resources
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.exe
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.pdb
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CopyComplete
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe.config
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.pdb
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csprojAssemblyReference.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Form1.resources
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Properties.Resources.resources
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CopyComplete
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.exe
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.pdb
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetMeteorologia.resources
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeira.resources
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Registo.resources
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeirante.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe.config
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.pdb
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csprojAssemblyReference.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeira.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeirante.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Registo.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetMeteorologia.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Properties.Resources.resources
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.GenerateResource.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CoreCompileInputs.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CopyComplete
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.exe
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.pdb
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe.config
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.exe
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ClienteREST.pdb
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Extensions.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Formatting.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Net.Http.Primitives.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.Edm.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Microsoft.Data.OData.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Nancy.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\Newtonsoft.Json.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Buffers.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Memory.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Numerics.Vectors.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Spatial.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Encodings.Web.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Text.Json.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\System.ValueTuple.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\de\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\es\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\fr\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\it\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ja\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ko\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\ru\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csprojAssemblyReference.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeira.resources
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetFeirante.resources
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Registo.resources
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.GetMeteorologia.resources
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.Properties.Resources.resources
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.GenerateResource.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CoreCompileInputs.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.csproj.CopyComplete
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.exe
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_Cliente_REST\ClienteREST\ClienteREST\obj\Debug\ClienteREST.pdb

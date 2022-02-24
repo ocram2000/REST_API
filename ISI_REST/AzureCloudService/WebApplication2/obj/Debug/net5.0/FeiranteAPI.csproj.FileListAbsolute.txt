@@ -1,0 +1,263 @@
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\TrabalhoPraticoISI\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
+C:\Users\pedro\Desktop\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\pedro\Downloads\ESI_ISI_TP_14363_16961_Fase2\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+C:\Users\Marco Henriques\Downloads\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\appsettings.json
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.exe
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.deps.json
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.json
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.runtimeconfig.dev.json
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\ref\FeiranteAPI.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\FeiranteAPI.pdb
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csprojAssemblyReference.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfoInputs.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.AssemblyInfo.cs
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CoreCompileInputs.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.Manifest.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\staticwebassets\FeiranteAPI.StaticWebAssets.xml
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\FeiranteAPI.styles.css
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.RazorTargetAssemblyInfo.cache
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.csproj.CopyComplete
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\ref\FeiranteAPI.dll
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.pdb
+E:\ISI\ESI_ISI_TP_14363_16961\ISI_REST\AzureCloudService\WebApplication2\obj\Debug\net5.0\FeiranteAPI.genruntimeconfig.cache
